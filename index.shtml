@@ -37,6 +37,7 @@
 		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		<!--#include virtual="inc/footer.html" -->
+		<a href="https://github.com/louisafan/lab2.git">GitHub Repository</a>
 	</div>
 </body>
 </html>

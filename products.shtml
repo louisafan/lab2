@@ -1,0 +1,33 @@
+<!doctype.html>
+<html>
+<head>
+	<title>Widgets-R-Us</title>
+	<meta charset="UFT-8">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="shortcut icon" href="img/logo-small.png">
+	<meta name="author" content="loufan">
+</head>
+<body>
+	<div class="content-box">
+		<!--#include virtual="inc/header.html" -->
+		<div class="email-box">
+			<a href="mailto:sales@widgetsrus.com">Send us email</a> or call us to order any of our products.
+		</div>
+		<!--HAHAHA I have no idea what I'm doing anymore why do each of these pages have different CSS styles for paragraphs... or am I just stupid? Time to schedule office hours...-->
+		<img class="left-tight" src="img/basic-widget.png">
+		<h5>Basic Widget</h5>
+		<pre>This is just your basic widget, nothing fancy</pre>
+		<h6>10 each; $100 box of 20</h6>
+		<img class="left-tight" src="img/super-widget.png">
+		<h5>Super Widget</h5>
+		<pre>A higher-end widget that is really super</pre>
+		<h6>$20 each; $200 box of 20</h6>
+		<img class="left-tight" src="img/super-duper-widget.png">
+		<h5>Super-Duper Widget</h5>
+		<pre>Our premium widget, the best of its kind!</pre>
+		<h6>$30 each; $300 box of 20</h6>
+		<p></p>
+		<!--#include virtual="inc/footer.html" -->
+	</div>
+</body>
+</html>

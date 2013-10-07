@@ -21,6 +21,22 @@ body {
 	padding: 10px;
 }
 
+.email-box {
+	width: 75%;
+	background-color: #FBEAE3;
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+}
+
+.email-box a {
+	text-decoration: none;
+}
+
+.email-box a:hover {
+	text-decoration: underline;
+}
+
 .logo-tight {
 	float: left;
 	padding: 10px 10px 10px 0px;
@@ -54,6 +70,16 @@ h4 {
 	color: #116189;
 	font-weight: bold;
 	padding: 20px 0px 0px 0px;
+}
+
+h5 {
+	font-size: 150%;
+	font-weight: bold;
+	padding: 20px 0px 10px 0px;
+}
+
+h6 {
+	font-style: italic;
 }
 
 p {
