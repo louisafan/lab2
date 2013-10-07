@@ -10,6 +10,7 @@
 <body>
 	<div class="content-box">
 		<!--#include virtual="inc/header.html" -->
+		<p></p>
 		<div class="email-box">
 			<a href="mailto:sales@widgetsrus.com">Send us email</a> or call us to order any of our products.
 		</div>
